@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  height: 400px;
+  background-image: url(img/mv.jpg);
+  background-size: cover;
+  background-position: bottom;
+}
+
+header h3 {
+  color: #6c6b6b;
+  padding: 20px 0 0 20px;
+}
+
+main {
+  width: 840px;
+  margin: 50px auto;
+}
+
+.contents-item {
+  border-bottom: 1px solid #c0c0c0;
+  padding-bottom: 30px;
+  font-size: 12px;
+  color: #6c6b6b;
+}
+
+.contents-item a {
+  display: inline-block;
+}
+
+.part2 {
+  padding-top: 30px;
+}
+
+.part3 {
+  padding-top: 30px;
+}
+
+.part4 {
+  padding-top: 30px;
+}
